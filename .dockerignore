@@ -1,0 +1,12 @@
+sockets/
+models/
+*.log
+
+__pycache__/
+*.py[cod]
+build/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
